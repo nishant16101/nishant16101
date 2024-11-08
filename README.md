@@ -2,7 +2,7 @@
 - 👀 I’m interested in casual machine learning 
 - 🌱 I’m currently learning deep neural networks 
 - 💞️ I’m looking to collaborate on topics related to financial data science,deep learning
-- 📫 How to reach me 
+- 📫 How to reach me - https://www.linkedin.com/in/nishant-kumbhar-3010b9259/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
